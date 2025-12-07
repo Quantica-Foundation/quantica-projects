@@ -82,7 +82,7 @@ This repository is reliant on the Quantica programming language.
 
 ---
 
-## ** Final Thought**
+## Final Thought
 
 > Languages expand through the creations of their users. This repository
 > is a set up so that you don't need to start from scratch.

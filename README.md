@@ -1,3 +1,6 @@
+[![Quantica Projects](https://img.shields.io/badge/Quantica_Source_code-Active-yellow)](https://github.com/Quantica-Foundation/quantica-lang.git)
+[![Quantica Projects](https://img.shields.io/badge/Website-Check_out-green)](https://github.com/Quantica-Foundation/quantica-lang.git)
+
 ## **Quantica Projects Hub** 
 
 
